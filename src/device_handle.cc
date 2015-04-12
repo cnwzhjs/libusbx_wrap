@@ -10,7 +10,7 @@
 #include <rp/deps/libusbx_wrap/device.h>
 #include <rp/deps/libusbx_wrap/transfer.h>
 #include <rp/util/exception.h>
-#include <libusb.h>
+#include <libusb-1.0/libusb.h>
 
 using namespace std;
 using namespace rp::util;

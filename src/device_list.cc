@@ -6,7 +6,7 @@
 //  Copyright (c) 2013 RoboPeak.com. All rights reserved.
 //
 
-#include <libusb.h>
+#include <libusb-1.0/libusb.h>
 
 #include <rp/deps/libusbx_wrap/device_list.h>
 #include <rp/deps/libusbx_wrap/device.h>

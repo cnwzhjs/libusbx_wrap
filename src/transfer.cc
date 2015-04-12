@@ -8,7 +8,7 @@
 
 #include <condition_variable>
 #include <functional>
-#include <libusb.h>
+#include <libusb-1.0/libusb.h>
 #include <rp/util/buffer.h>
 #include <rp/util/scopes.h>
 #include <rp/deps/libusbx_wrap/transfer.h>
